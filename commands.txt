@@ -1,0 +1,7 @@
+git init ---->command just instails the repository
+git status ------> the command just show information about the repository
+git add fileName ----------> this commands tracking the files to add in repository
+git config user.name 'user.name'
+git config user.name 'user.email'
+git commit ----> this command take shap shot at point\
+git commit -m this parameter give a messgae to commit to better understanding
