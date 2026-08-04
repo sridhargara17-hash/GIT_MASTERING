@@ -5,3 +5,13 @@ git config user.name 'user.name'
 git config user.name 'user.email'
 git commit ----> this command take shap shot at point\
 git commit -m this parameter give a messgae to commit to better understanding
+git checkout HASHCODE -------> this command move the HEAD that particlar version of commit
+---------------------------------------------------
+"Remove-Item .git\index.loc" -----> to kill git running thread in powershell
+del .git\index.lock --------------> to kill git running thread in command
+---------------------------------------------------
+git branch New Branch name------>creating new branch
+git checkout -b New Branch name------>creating new branch and switched
+git branch -a -------------------->to all exiting branch's
+git switch -c feature-login ----># Create and switch to a new branch
+git switch feature-login ------->What you can do is move HEAD to a different branch:
